@@ -1,0 +1,15 @@
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\bin\Debug\net6.0\Еxample006_Base.exe
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\bin\Debug\net6.0\Еxample006_Base.deps.json
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\bin\Debug\net6.0\Еxample006_Base.runtimeconfig.json
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\bin\Debug\net6.0\Еxample006_Base.dll
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\bin\Debug\net6.0\Еxample006_Base.pdb
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.csproj.AssemblyReference.cache
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.AssemblyInfoInputs.cache
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.AssemblyInfo.cs
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.csproj.CoreCompileInputs.cache
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.dll
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\obj\Debug\net6.0\refint\Еxample006_Base.dll
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.pdb
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.genruntimeconfig.cache
+D:\Дима\GB\3. C#\Лекции\Example\Еxample006_Base\obj\Debug\net6.0\ref\Еxample006_Base.dll
